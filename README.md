@@ -1,3 +1,6 @@
+> [!WARNING]
+> Both the website and the Discord bot are under development, therefore, they are not available for use.
+
 # Magik - Your AI Image Generation Bot
 
 Magik is a powerful Discord bot made by [@RaulRDA](https://github.com/raulrda) that utilizes artificial intelligence to generate images completely for free. Whether you need artwork, illustrations, or any other type of image, Magik is here to help you create stunning visual content in a matter of seconds.
